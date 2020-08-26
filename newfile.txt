@@ -1,0 +1,10 @@
+ O volume na unidade D ‚ Dados
+ O N£mero de S‚rie do Volume ‚ 6246-59D8
+
+ Pasta de D:\Meus dados\Desktop\Nova pasta
+
+26/08/2020  14:05    <DIR>          .
+26/08/2020  14:05    <DIR>          ..
+26/08/2020  14:05                 0 newfile.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   391.186.145.280 bytes dispon¡veis
